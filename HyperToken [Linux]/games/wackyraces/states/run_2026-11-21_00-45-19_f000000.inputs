@@ -1,0 +1,17 @@
+ps2-inputs 1
+check-every 15 slices 64
+pal 1
+program games/wackyraces/SLES_501.83
+disc-program 1
+game-dir /run/media/connorh/dce9164b-4c26-4cbd-8cac-8f07447af2fc/nativity/test/games/wackyraces
+disc games/wackyraces/disc.iso
+start power-on frame 0
+recorded 2026-11-21_00-45-19
+rtc 1795221919
+card none
+p1 1 0000 128 127 128 127 255 255 1
+p2 1 0000 128 128 128 128 255 255 0
+h 15 d18ca16b
+h 30 28d262fe
+h 45 1264a9a2
+e 50

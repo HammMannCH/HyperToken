@@ -1,0 +1,14 @@
+﻿{
+    "source":  "C:\\WackyRacesRE\\discs\\Wacky Races Starring Dastardly \u0026 Muttley (Europe) (En,Fr,De,Es,It).bin",
+    "patches":  "",
+    "took":  "436",
+    "iso":  "games\\Wacky-Races-Starring-Dastardly-M\\disc.iso",
+    "widescreen":  "",
+    "sections":  [
+
+                 ],
+    "name":  "Wacky-Races-Starring-Dastardly-M",
+    "elf":  "games\\Wacky-Races-Starring-Dastardly-M\\disc\\SLES_501.83",
+    "pnach":  "",
+    "built":  "2026-11-21T22:59:44"
+}

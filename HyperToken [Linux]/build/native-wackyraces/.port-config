@@ -1,0 +1,1 @@
+-DCMAKE_CXX_COMPILER=/usr/bin/clang++ -DCMAKE_CXX_FLAGS=-mavx2 -ffp-contract=off /run/media/connorh/dce9164b-4c26-4cbd-8cac-8f07447af2fc/nativity/build/runtime-native-1630142861/libps2runtime.a

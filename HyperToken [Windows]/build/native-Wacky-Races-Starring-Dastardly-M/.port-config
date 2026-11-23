@@ -1,0 +1,1 @@
+-DCMAKE_CXX_COMPILER=/c/Users/Paddy/Documents/My Games/WACKYRACES/ps2-native-recomp-0.0.5/tools/portable/llvm-mingw/bin/clang++.exe -DCMAKE_CXX_FLAGS=-mavx2 -ffp-contract=off /c/Users/Paddy/Documents/My Games/WACKYRACES/ps2-native-recomp-0.0.5/build/runtime-native-2133736327/libps2runtime.a
