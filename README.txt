@@ -1,5 +1,3 @@
-![Hypertoken Logo](hypertoken.png)
-
 Welcome to the HyperToken recomp. This is a recompilation of Wacky Races Starring: Dastardly & Muttley for both Windows and Linux computers. It specifically aims to make 60 Hz playable on PC on top of being portable enough for you to be able to run with more convenience than PCSX2.
 
 The recompilation was made using version 0.0.5 of exoteric33's "PS2-native-recomp" tool and was lucky enough to run the game perfectly with little to no additional coding. If you want to know who deserves the credit for pulling off the recompilation, it's 100% his doing. You can find the project that spawned this here: https://github.com/exoteric33/ps2-native-recomp/issues/129
